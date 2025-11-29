@@ -1,2 +1,6 @@
 - [ ] [Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
-
+    - [X] [Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html)
+    - [X] [Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
+    - [ ] [Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
+    - [ ] [Comments](https://doc.rust-lang.org/book/ch03-04-comments.html)
+    - [ ] [Control flow](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
