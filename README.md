@@ -5,6 +5,6 @@
   - [X] [Comments](https://doc.rust-lang.org/book/ch03-04-comments.html)
   - [X] [Control flow](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
 - [ ] [Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) 
-  - [ ] [What is Ownership?](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
+  - [X] [What is Ownership?](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
   - [ ] [References and Borrowing](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html)
   - [ ] [The Slice Type](https://doc.rust-lang.org/book/ch04-03-slices.html)
